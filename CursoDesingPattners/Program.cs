@@ -8,14 +8,16 @@ namespace CursoDesingPattners
         {
             Imposto iss = new ISS();
             Imposto icms = new ICMS();
+            Imposto iccc = new ICCC();
 
 
-            Orcamento orcamento = new Orcamento(500.0);
+            Orcamento orcamento = new Orcamento(5000.0);
 
             CalculadorDeImpostos calculador = new CalculadorDeImpostos();
 
             calculador.RealizaCaulculo(orcamento, iss);
             calculador.RealizaCaulculo(orcamento, icms);
+            calculador.RealizaCaulculo(orcamento, iccc);
             Console.ReadKey();
         }
     }

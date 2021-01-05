@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\CursoDesingPattners.csproj": {}
+    "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\Strategy - Impostos.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\CursoDesingPattners.csproj": {
+    "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\Strategy - Impostos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\CursoDesingPattners.csproj",
-        "projectName": "CursoDesingPattners",
-        "projectPath": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\CursoDesingPattners.csproj",
+        "projectUniqueName": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\Strategy - Impostos.csproj",
+        "projectName": "Strategy - Impostos",
+        "projectPath": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\Strategy - Impostos.csproj",
         "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
         "outputPath": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\CursoDesingPattners\\obj\\",
         "projectStyle": "PackageReference",
