@@ -1,0 +1,13 @@
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\bin\Debug\netcoreapp3.1\CursoDesingPattners.exe
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\bin\Debug\netcoreapp3.1\CursoDesingPattners.deps.json
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\bin\Debug\netcoreapp3.1\CursoDesingPattners.runtimeconfig.json
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\bin\Debug\netcoreapp3.1\CursoDesingPattners.runtimeconfig.dev.json
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\bin\Debug\netcoreapp3.1\CursoDesingPattners.dll
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\bin\Debug\netcoreapp3.1\CursoDesingPattners.pdb
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.csprojAssemblyReference.cache
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.AssemblyInfoInputs.cache
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.AssemblyInfo.cs
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.csproj.CoreCompileInputs.cache
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.dll
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.pdb
+D:\Documents\Cursos\Alura\Design Pattners\CursoDesingPattners\obj\Debug\netcoreapp3.1\CursoDesingPattners.genruntimeconfig.cache
