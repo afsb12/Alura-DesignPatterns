@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoDesingPattners", "CursoDesingPattners.csproj", "{E5C9B990-7A1F-4BF5-81E5-0900CDC2130A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy - Impostos", "Strategy - Impostos.csproj", "{E5C9B990-7A1F-4BF5-81E5-0900CDC2130A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy - Investimento", "..\Strategy - Investimento\Strategy - Investimento.csproj", "{1B27A4E1-CBAD-4919-BF2B-78238EC90D09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E5C9B990-7A1F-4BF5-81E5-0900CDC2130A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C9B990-7A1F-4BF5-81E5-0900CDC2130A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C9B990-7A1F-4BF5-81E5-0900CDC2130A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B27A4E1-CBAD-4919-BF2B-78238EC90D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B27A4E1-CBAD-4919-BF2B-78238EC90D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B27A4E1-CBAD-4919-BF2B-78238EC90D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B27A4E1-CBAD-4919-BF2B-78238EC90D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
