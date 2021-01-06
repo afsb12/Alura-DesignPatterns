@@ -6,21 +6,22 @@ namespace Strategy___Investimento
 {
     public class Arrojado : EstrategiaDeInsvestimento
     {
+        private Random random;
+
+        public Arrojado()
+        {
+            this.random = new Random();
+        }
+
         public double CalculaInvestimento(Contabancaria contabancaria)
         {
-            int chance = new Random().Next(101);
-            if (chance <= 20)
-            {
-                return contabancaria.Saldo += contabancaria.Saldo * 0.05;
-            }
-            else if (chance > 20 && chance <= 30 )
-            {
-                return contabancaria.Saldo += contabancaria.Saldo * 0.03;
-            }
+            int chance = random.Next(10);
+            if (chance >= 0 && chance <= 1)
+                return contabancaria.Saldo * 0.05;
+            else if (chance >= 2 && chance <= 4 )
+                return contabancaria.Saldo * 0.03;
             else
-            {
-                return contabancaria.Saldo += contabancaria.Saldo * 0.006;
-            }
+                return contabancaria.Saldo * 0.006;
         }
     }
 }

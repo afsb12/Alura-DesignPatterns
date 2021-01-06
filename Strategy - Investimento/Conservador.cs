@@ -8,7 +8,7 @@ namespace Strategy___Investimento
     {
         public double CalculaInvestimento(Contabancaria contabancaria)
         {
-            return contabancaria.Saldo += contabancaria.Saldo * 0.008;
+            return contabancaria.Saldo * 0.008;
         }
     }
 }

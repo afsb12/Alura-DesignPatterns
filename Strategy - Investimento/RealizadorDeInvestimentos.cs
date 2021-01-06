@@ -8,7 +8,7 @@ namespace Strategy___Investimento
     {
         public void Investir(Contabancaria contabancaria, EstrategiaDeInsvestimento estrategia)
         {
-            contabancaria.Saldo = estrategia.CalculaInvestimento(contabancaria);
+            contabancaria.Deposita(estrategia.CalculaInvestimento(contabancaria));
             Console.WriteLine(contabancaria.Saldo);
         }
     }

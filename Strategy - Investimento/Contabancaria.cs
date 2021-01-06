@@ -6,11 +6,11 @@ namespace Strategy___Investimento
 {
     public class Contabancaria
     {
-        public double Saldo { get; set; }
+        public double Saldo { get; private set; }
 
-        public Contabancaria(double saldo)
+        public void Deposita (double saldo)
         {
-            this.Saldo = saldo;
+            this.Saldo += saldo;
         }
     }
 }

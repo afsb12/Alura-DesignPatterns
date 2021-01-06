@@ -6,18 +6,21 @@ namespace Strategy___Investimento
 {
     public class Moderado : EstrategiaDeInsvestimento
     {
+        private Random random;
+
+        public Moderado()
+        {
+            this.random = new Random();
+        }
 
         public double CalculaInvestimento(Contabancaria contabancaria)
         {
-            bool chance = new Random().Next(101) <= 50;
-            if (chance)
-            {
-                return contabancaria.Saldo += contabancaria.Saldo * 0.025;
-            }
+            
+            if (random.Next(2) == 0)
+                return contabancaria.Saldo * 0.025;
+
             else
-            {
-                return contabancaria.Saldo += contabancaria.Saldo * 0.007;
-            }
+                return contabancaria.Saldo * 0.007;
         }
     }
 }
