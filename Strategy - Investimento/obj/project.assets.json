@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\Strategy - Investimento\\Strategy - Investimento.csproj",
-      "projectName": "Strategy - Investimento",
-      "projectPath": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\Strategy - Investimento\\Strategy - Investimento.csproj",
+      "projectUniqueName": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\Strategy - Investimento\\Investimento.csproj",
+      "projectName": "Investimento",
+      "projectPath": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\Strategy - Investimento\\Investimento.csproj",
       "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
       "outputPath": "D:\\Documents\\Cursos\\Alura\\Design Pattners\\Alura-DesignPatterns\\Strategy - Investimento\\obj\\",
       "projectStyle": "PackageReference",

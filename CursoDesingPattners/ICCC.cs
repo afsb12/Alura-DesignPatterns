@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoDesingPattners
 {
-    public class ICCC : Imposto
+    public class ICCC : IImposto
     {
         public double Calcula(Orcamento orcamento)
         {

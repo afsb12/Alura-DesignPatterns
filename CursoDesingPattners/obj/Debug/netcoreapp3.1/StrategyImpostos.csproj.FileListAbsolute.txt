@@ -1,0 +1,13 @@
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\StrategyImpostos.exe
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\StrategyImpostos.deps.json
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\StrategyImpostos.runtimeconfig.json
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\StrategyImpostos.runtimeconfig.dev.json
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\StrategyImpostos.dll
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\StrategyImpostos.pdb
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.csprojAssemblyReference.cache
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.AssemblyInfoInputs.cache
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.AssemblyInfo.cs
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.csproj.CoreCompileInputs.cache
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.dll
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.pdb
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\StrategyImpostos.genruntimeconfig.cache

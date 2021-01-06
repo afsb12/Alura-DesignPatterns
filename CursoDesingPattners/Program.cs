@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Strategy.Impostos;
+using StrategyImpostos;
+using System;
 
 namespace CursoDesingPattners
 {
@@ -6,6 +8,7 @@ namespace CursoDesingPattners
     {
         static void Main(string[] args)
         {
+            /* --------------------- TESTE ORÇAMENTO ---------------------------------
             Imposto iss = new ISS();
             Imposto icms = new ICMS();
             Imposto iccc = new ICCC();
@@ -18,6 +21,27 @@ namespace CursoDesingPattners
             calculador.RealizaCaulculo(orcamento, iss);
             calculador.RealizaCaulculo(orcamento, icms);
             calculador.RealizaCaulculo(orcamento, iccc);
+            --------------------- TESTE ORÇAMENTO --------------------------------- */
+
+
+            CalculadorDeDescontos calculador = new CalculadorDeDescontos();
+
+            Orcamento orcamento = new Orcamento(500);
+            orcamento.AdicionaItem(new Item("CANETA", 250));
+            orcamento.AdicionaItem(new Item("Teste", 250));
+            orcamento.AdicionaItem(new Item("teste", 250));
+            orcamento.AdicionaItem(new Item("testes", 250));
+            orcamento.AdicionaItem(new Item("CANETA", 250));
+            orcamento.AdicionaItem(new Item("CANETA", 250));
+            orcamento.AdicionaItem(new Item("CANETA", 250));
+            orcamento.AdicionaItem(new Item("CANETA", 250));
+
+
+            double desconto = calculador.Calcula(orcamento);
+
+            Console.WriteLine(desconto);
+
+
             Console.ReadKey();
         }
     }
