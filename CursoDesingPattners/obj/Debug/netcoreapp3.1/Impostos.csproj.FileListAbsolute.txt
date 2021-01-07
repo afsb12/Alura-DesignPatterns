@@ -1,0 +1,13 @@
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\Impostos.exe
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\Impostos.deps.json
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\Impostos.runtimeconfig.json
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\Impostos.runtimeconfig.dev.json
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\Impostos.dll
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\bin\Debug\netcoreapp3.1\Impostos.pdb
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.csprojAssemblyReference.cache
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.AssemblyInfoInputs.cache
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.AssemblyInfo.cs
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.csproj.CoreCompileInputs.cache
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.dll
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.pdb
+D:\Documents\Cursos\Alura\Design Pattners\Alura-DesignPatterns\CursoDesingPattners\obj\Debug\netcoreapp3.1\Impostos.genruntimeconfig.cache

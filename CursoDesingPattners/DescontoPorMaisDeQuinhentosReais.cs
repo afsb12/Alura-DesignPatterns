@@ -1,4 +1,5 @@
 ﻿using CursoDesingPattners;
+using Impostos;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,6 +9,11 @@ namespace StrategyImpostos
     public  class DescontoPorMaisDeQuinhentosReais : IDesconto
     {
         public IDesconto Proximo { get ; set ; }
+
+        public DescontoPorMaisDeQuinhentosReais()
+        {
+            Proximo = new DescontoPorVendaCasada();
+        }
 
         public double Desconta(Orcamento orcamento)
         {

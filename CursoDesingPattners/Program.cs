@@ -28,13 +28,8 @@ namespace CursoDesingPattners
 
             Orcamento orcamento = new Orcamento(500);
             orcamento.AdicionaItem(new Item("CANETA", 250));
-            orcamento.AdicionaItem(new Item("Teste", 250));
-            orcamento.AdicionaItem(new Item("teste", 250));
-            orcamento.AdicionaItem(new Item("testes", 250));
-            orcamento.AdicionaItem(new Item("CANETA", 250));
-            orcamento.AdicionaItem(new Item("CANETA", 250));
-            orcamento.AdicionaItem(new Item("CANETA", 250));
-            orcamento.AdicionaItem(new Item("CANETA", 250));
+            orcamento.AdicionaItem(new Item("LAPIS", 250));
+            
 
 
             double desconto = calculador.Calcula(orcamento);

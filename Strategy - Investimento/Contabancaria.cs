@@ -6,6 +6,7 @@ namespace Strategy___Investimento
 {
     public class Contabancaria
     {
+        public string NomeTitular { get; set; }
         public double Saldo { get; private set; }
 
         public void Deposita (double saldo)
