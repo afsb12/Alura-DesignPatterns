@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Strategy___Investimento
+namespace Investimento
 {
     public class Moderado : EstrategiaDeInsvestimento
     {
